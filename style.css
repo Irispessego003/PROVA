@@ -1,4 +1,13 @@
 body {
-    background-color: sandybrown;
+    background-color: rgb(245, 119, 8);
 
+    text-align: center;
+}
+
+p {
+    color: rgb(183, 0, 255);
+}
+
+.LARANJAULTRAFORTE {
+    font-style: italic;
 }
