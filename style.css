@@ -1,12 +1,31 @@
 body {
     background-color: rgb(245, 119, 8);
-
+    background-color: rgba(153, 50, 204, 0.817);
+    margin: 0px
     text-align: center;
 }
 
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    color:rgba(138, 40, 230, 0.192);
+    display: flex;
+    justify-content: center;
+}
+
+
 p {
     color: rgb(183, 0, 255);
+    padding-top: 5%;
+    .centro {
+        text-align: center;
 }
+
+.img1 {
+    width: 50%;
+}
+
 
 .LARANJAULTRAFORTE {
     font-style: italic;
