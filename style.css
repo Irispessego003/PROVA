@@ -1,14 +1,13 @@
 body {
     background-color: rgb(235, 159, 92);
     margin: 0px
-    text-align: center;
-}
+    text-align; center}
 
 nav a {
     margin-top: 5px;
     padding: 2px;
     font-size: 20px;
-    color:rgba(138, 40, 230, 0.192);
+    color:rgb(86, 13, 155);
     display: flex;
     justify-content: center;
 }
@@ -21,11 +20,11 @@ p {
         text-align: center;
 }
 
-.img1 {
+.LARANJAULTRAFORTE {
     width: 50%;
 }
 
 
-.LARANJAULTRAFORTE {
+ {
     font-style: italic;
 }
